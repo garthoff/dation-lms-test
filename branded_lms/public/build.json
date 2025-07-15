@@ -1,8 +1,0 @@
-{
-  "branded_lms.bundle.js": [
-    "js/branded_lms.js"
-  ],
-  "branded_lms.bundle.css": [
-    "css/branded_lms.css"
-  ]
-}
