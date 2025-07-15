@@ -1,8 +1,11 @@
+# Frappe Bench expects this top-level assignment:
+version = '0.0.1'
+
 from setuptools import setup, find_packages
 
 setup(
     name='branded_lms',
-    version='0.0.1', 
+    version=version,
     description='Branded LMS App',
     author='Your Name',
     author_email='you@example.com',
