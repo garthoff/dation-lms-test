@@ -1,2 +1,6 @@
-# Minimal hooks.py
-app_name = 'branded_lms'
+app_name = "branded_lms"
+app_title = "Branded LMS"
+app_publisher = "Your Company"
+app_description = "LMS integration for Dation & Educators"
+app_email = "info@yourcompany.com"
+app_license = "MIT"
