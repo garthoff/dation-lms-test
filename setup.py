@@ -1,5 +1,5 @@
 # Frappe Bench expects this top-level assignment:
-version = '0.0.1'
+version = "0.0.1"
 
 from setuptools import setup, find_packages
 
