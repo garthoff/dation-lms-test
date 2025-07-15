@@ -1,8 +1,9 @@
+
 {
   "branded_lms.bundle.js": [
-    "js/branded_lms.js"
+    "public/js/branded_lms.js"
   ],
   "branded_lms.bundle.css": [
-    "css/branded_lms.css"
+    "public/css/branded_lms.css"
   ]
 }

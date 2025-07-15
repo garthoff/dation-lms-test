@@ -1,1 +1,2 @@
-// Branded LMS JS
+// Placeholder JS
+console.log('Branded LMS JS loaded');
